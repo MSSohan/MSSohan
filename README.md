@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @MD Saifuzzaman Sohan
-- 👀 I’m interested in web-developement and graphics designing
+- MD Saifuzzaman Sohan
+- I’m interested in web-developement and graphics designing
 
 
 <!---
