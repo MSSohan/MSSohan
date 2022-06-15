@@ -1,5 +1,5 @@
 - MD Saifuzzaman Sohan
-- I’m interested in web-developement and graphics designing
+- I’m interested in web-development and graphics designing
 
 
 <!---
