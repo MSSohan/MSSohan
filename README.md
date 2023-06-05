@@ -86,18 +86,18 @@ You can click the Preview link to take a look at your changes.
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ### 🎨 Circuit Design
-![Diptrace]
-![DSCH2]
-![Microwind]
+![Diptrace](https://img.shields.io/badge/Diptrace-2F8D46?style=for-the-badge&logo&logoColor=white)
+![DSCH2](https://img.shields.io/badge/Dsch2-2F8FA6?style=for-the-badge&logo&logoColor=white)
+![Microwind](https://img.shields.io/badge/microwind-2FBFA6?style=for-the-badge&logo&logoColor=white)
 
 ### 👩‍💻 Simulator
-![Advanced Design System]
-![Origin Pro]
-![Matlab]
+![Advanced Design System](https://img.shields.io/badge/advanced%20design%20system-F56C2D?style=for-the-badge&logo&logoColor=white)
+![Origin Pro](https://img.shields.io/badge/origin%20pro-F56C2D?style=for-the-badge&logo&logoColor=white)
+![Matlab](https://img.shields.io/badge/Matlab-000000?style=for-the-badge&logo&logoColor=white)
 ![RSoft](https://img.shields.io/badge/RSoft-00FFFF?style=for-the-badge&logo&logoColor=white)
-![PSpice]
-![Cisco]
-![emu]
+![PSpice](https://img.shields.io/badge/pspice-000000?style=for-the-badge&logo&logoColor=white)
+![Cisco](https://img.shields.io/badge/cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![emu](https://img.shields.io/badge/emu-000000?style=for-the-badge&logo&logoColor=white)
 
 ### 🎛️ Operating System
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
