@@ -71,12 +71,12 @@ You can click the Preview link to take a look at your changes.
 ![Adafruit](https://img.shields.io/badge/adafruit-000000?style=for-the-badge&logo=adafruit&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
-### 🎨 3D Design:
+### 🎨 3D Design
 ![Solidwork](https://img.shields.io/badge/SolidWork-000000?style=for-the-badge&logo&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![AutoCad](https://img.shields.io/badge/autocad-000000?style=for-the-badge&logo=autodesk&logoColor=white)
 
-### 🎨 Graphics Design:
+### 🎨 Graphics Design
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
@@ -85,12 +85,12 @@ You can click the Preview link to take a look at your changes.
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-### 🎨 Circuit Design:
+### 🎨 Circuit Design
 ![Diptrace]
 ![DSCH2]
 ![Microwind]
 
-### 👩‍💻 Simulator:
+### 👩‍💻 Simulator
 ![Advanced Design System]
 ![Origin Pro]
 ![Matlab]
@@ -105,7 +105,7 @@ You can click the Preview link to take a look at your changes.
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-###👨‍💻 Office 
+### 👨‍💻 Office 
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![OverLeaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white)
 
