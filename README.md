@@ -17,9 +17,9 @@ You can click the Preview link to take a look at your changes.
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![Matlab]
 
 ### 📚 Frameworks/Platforms
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
@@ -70,16 +70,32 @@ You can click the Preview link to take a look at your changes.
 ![ESP8266]
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
-### 🎨 Design:
+### 🎨 3D Design:
 ![Solidwork]
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![AutoCad]
+
+### 🎨 Graphics Design:
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+### 🎨 Circuit Design:
+![Diptrace]
+![DSCH2]
+![Microwind]
+
+### 💻 Simulator:
+![Advanced Design System]
+![Origin Pro]
+![Matlab]
+![RSoft]
+![Pspice]
+![Cisco]
+![emu]
 
 ### 🎛️ Operating System
 ![Windows]
@@ -103,6 +119,6 @@ You can click the Preview link to take a look at your changes.
 
 ---
 <details><summary>See Visitors Information</summary>
->Counting of visitors to this page in this section started from June 06, 2023
+> Counting of visitors to this page in this section started from June 06, 2023
 <div><img src="https://profile-counter.glitch.me/MSSohan/count.svg" alt="Flag Counter" border="0"></div>
 </details>
