@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Web Development, App Development and 3D Designing...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-
+![hit](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{MSSohan}1212%2Fhit-counter)
 <!---
 MSSohan/MSSohan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -134,4 +134,3 @@ You can click the Preview link to take a look at your changes.
 🎯 Counting of visitors to this page in this section started from June 06, 2023
 <div><img src="https://profile-counter.glitch.me/MSSohan/count.svg" alt="Flag Counter" border="0"></div>
 </details>
-![hit](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{MSSohan}1212%2Fhit-counter)
