@@ -133,8 +133,10 @@ You can click the Preview link to take a look at your changes.
 ---
 
 ![hit](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MSSohan&theme=chartreuse_dark)
+![commit](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MSSohan&theme=chartreuse_dark&utcOffset=6)
 ![graph](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MSSohan&theme=chartreuse_dark)
 ![graph](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MSSohan&theme=chartreuse_dark)
+![Most use language](https://github-readme-stats.vercel.app/api/top-langs/?username=MSSohan&layout=donut&theme=highcontrast&hide_border=true)
 
 ---
 
