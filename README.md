@@ -133,4 +133,5 @@ You can click the Preview link to take a look at your changes.
 <details><summary>See Visitors Information</summary>
 🎯 Counting of visitors to this page in this section started from June 06, 2023
 <div><img src="https://profile-counter.glitch.me/MSSohan/count.svg" alt="Flag Counter" border="0"></div>
+  <div>https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{MSSohan}1212%2Fhit-counter</div>
 </details>
