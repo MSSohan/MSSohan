@@ -127,9 +127,10 @@ You can click the Preview link to take a look at your changes.
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 
-![hit](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MSSohan)
-
 ---
+
+![hit](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MSSohan)
+[](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MSSohan&theme=default).
 
 ---
 <details><summary>See Visitors Information</summary>
@@ -137,4 +138,4 @@ You can click the Preview link to take a look at your changes.
 <div><img src="https://profile-counter.glitch.me/MSSohan/count.svg" alt="Flag Counter" border="0"></div>
 </details>
 
-![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{MSSohan}1212%2Fhit-counter)
+![hit](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{MSSohan}1212%2Fhit-counter)
