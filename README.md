@@ -6,7 +6,7 @@
 - 📫 How to reach me ...
 ###
 ![hit](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{MSSohan}1212%2Fhit-counter)
-![hit](https://github-readme-activity-graph.cyclic.app/graph?username={MSSohan})
+![hit](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={MSSohan}&theme={Sohan})
 <!---
 MSSohan/MSSohan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
