@@ -137,7 +137,6 @@ You can click the Preview link to take a look at your changes.
     srcset="https://github-readme-stats.vercel.app/api?username=MSSohan&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=MSSohan&show_icons=true" />
 </picture>
 
 ---
