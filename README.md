@@ -137,13 +137,11 @@ You can click the Preview link to take a look at your changes.
     srcset="https://github-readme-stats.vercel.app/api?username=MSSohan&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=MSSohan&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
   <img src="https://github-readme-stats.vercel.app/api?username=MSSohan&show_icons=true" />
 </picture>
+
 ---
+
 <details><summary>See Visitors Information</summary>
 🎯 Counting of visitors to this page in this section started from June 06, 2023
 <div><img src="https://profile-counter.glitch.me/MSSohan/count.svg" alt="Flag Counter" border="0"></div>
