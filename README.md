@@ -130,7 +130,8 @@ You can click the Preview link to take a look at your changes.
 ---
 
 ![hit](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MSSohan)
-[](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MSSohan&theme=default).
+![graph](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MSSohan&theme=default).
+![graph](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MSSohan&theme=default)
 
 ---
 <details><summary>See Visitors Information</summary>
