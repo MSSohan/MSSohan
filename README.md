@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on ...
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MSSohan&theme=chartreuse-dark&hide_border=true&date_format=j%20M%5B%20Y%5D">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MSSohan&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D">
 </p>
 
 <!---
