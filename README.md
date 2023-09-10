@@ -7,6 +7,14 @@
 - I’m interested in multi-tasking like Web Development, App Development, IoT & IoT Product Development, Python Programming, and Graphics Designing.
 - 🌱 I’m currently learning Web Development, App Development and 3D Designing...
 - 💞️ I’m looking to collaborate on ...
+<p align='center'>
+    <a href='in/md-saifuzzaman-sohan-4a7302213' target='_blank'>
+        <img src='https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white'/>
+    </a>
+    <a href='mailto:sohan.cu.eee.17@gmail.com' target='_blank'>
+        <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/>
+    </a>
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MSSohan&theme=chartreuse_dark&hide_border=true&date_format=j%20M%5B%20Y%5D">
