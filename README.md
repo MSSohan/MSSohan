@@ -38,7 +38,6 @@ You can click the Preview link to take a look at your changes.
 
 ### 📚 Frameworks/Platforms
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
@@ -97,7 +96,6 @@ You can click the Preview link to take a look at your changes.
 ![AutoCad](https://img.shields.io/badge/autocad-000000?style=for-the-badge&logo=autodesk&logoColor=white)
 
 ### 🎨 Graphics Design
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
@@ -139,16 +137,15 @@ You can click the Preview link to take a look at your changes.
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-![Signal](https://img.shields.io/badge/Signal-%23039BE5.svg?style=for-the-badge&logo=Signal&logoColor=white)
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 
 ---
 
-![hit](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MSSohan&theme=chartreuse_dark)
-![commit](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MSSohan&theme=chartreuse_dark&utcOffset=6)
-![graph](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MSSohan&theme=chartreuse_dark)
-![graph](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MSSohan&theme=chartreuse_dark)
+![profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MSSohan&theme=chartreuse_dark)
+![productive time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MSSohan&theme=chartreuse_dark&utcOffset=6)
+![repo lang](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MSSohan&theme=chartreuse_dark)
+![most commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MSSohan&theme=chartreuse_dark)
 ![Most use language](https://github-readme-stats.vercel.app/api/top-langs/?username=MSSohan&layout=donut&theme=highcontrast&hide_border=true)
 
 ---
