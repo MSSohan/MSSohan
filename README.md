@@ -1,5 +1,5 @@
 <div align='center'>
-<img src='https://readme-typing-svg.herokuapp.com/?font=roboto&color=DBFF0F&center=true&lines=Web+Developer;Enthusiastic+Programmer;App+Developer;Product+Developer;3D+Designer'/>
+<img src='https://readme-typing-svg.herokuapp.com/?font=roboto&color=DBFF0F&center=true&lines=Web+Developer;Enthusiastic+Programmer;App+Developer;Product+Developer;3D+Designer;Graphics+Designer;Electrical+Engineer'/>
 </div>
 
 ### 👋 Hi, I’m Md Saifuzzaman Sohan
