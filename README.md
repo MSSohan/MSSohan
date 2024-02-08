@@ -1,5 +1,5 @@
 <div align='center'>
-<img src='https://readme-typing-svg.herokuapp.com/?font=Protest+Riot&size=30&color=1DF7EA&center=true&lines=Web+Developer;Enthusiastic+Programmer;App+Developer;Product+Developer;3D+Designer;Graphics+Designer;Electrical+Engineer'alt="Typing SVG" />
+<img src='https://readme-typing-svg.herokuapp.com/?font=Protest+Revolution&size=30&color=30F700&center=true&lines=Web+Developer;Enthusiastic+Programmer;App+Developer;Product+Developer;3D+Designer;Graphics+Designer;Electrical+Engineer'alt="Typing SVG" />
 </div>
 
 ### 👋 Hi, I’m Md Saifuzzaman Sohan
