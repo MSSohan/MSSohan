@@ -109,13 +109,13 @@ You can click the Preview link to take a look at your changes.
 ![Microwind](https://img.shields.io/badge/microwind-2FBFA6?style=for-the-badge&logo&logoColor=white)
 
 ### 👩‍💻 Simulator
-![Advanced Design System](https://img.shields.io/badge/advanced%20design%20system-F56C2D?style=for-the-badge&logo&logoColor=white)
+![Advanced Design System](https://img.shields.io/badge/advanced%20design%20system-DB4437?style=for-the-badge&logo&logoColor=white)
 ![Origin Pro](https://img.shields.io/badge/origin%20pro-F56C2D?style=for-the-badge&logo&logoColor=white)
-![Matlab](https://img.shields.io/badge/Matlab-000000?style=for-the-badge&logo&logoColor=white)
+![Matlab](https://img.shields.io/badge/Matlab-450B0E?style=for-the-badge&logo&logoColor=white)
 ![RSoft](https://img.shields.io/badge/RSoft-00FFFF?style=for-the-badge&logo&logoColor=white)
 ![PSpice](https://img.shields.io/badge/pspice-000000?style=for-the-badge&logo&logoColor=white)
 ![Cisco](https://img.shields.io/badge/cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![emu](https://img.shields.io/badge/emu-000000?style=for-the-badge&logo&logoColor=white)
+![emu](https://img.shields.io/badge/emu-fd6cff?style=for-the-badge&logo&logoColor=white)
 
 ### 🎛️ Operating System
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
