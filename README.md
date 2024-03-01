@@ -1,30 +1,27 @@
+<h1 align="center"><b>Hi , I'm Md Saifuzzaman Sohan </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
 <div align='center'>
 <img src='https://readme-typing-svg.herokuapp.com/?font=Protest+Revolution&size=30&color=30F700&center=true&lines=Web+Developer;Enthusiastic+Programmer;App+Developer;Product+Developer;3D+Designer;Graphics+Designer;Electrical+Engineer'alt="Typing SVG" />
 </div>
 
-### 👋 Hi, I’m Md Saifuzzaman Sohan
-### 👀 I'm an Electrical Engineer...
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> About me </b>
 - I’m interested in multi-tasking like Web Development, App Development, IoT & IoT Product Development, Python Programming, and Graphics Designing.
 - 🌱 I’m currently learning Web Development, App Development and 3D Designing...
+- 🥰 A passionate Self-taught Full-Stack developer 
 - 💞️ I’m looking to collaborate on ...
-<p align='center'>
-    <a href='https://www.linkedin.com/in/md-saifuzzaman-sohan-4a7302213/' target='_blank'>
-        <img src='https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white'/>
-    </a>
-    <a href='mailto:sohan.cu.eee.17@gmail.com' target='_blank'>
-        <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/>
-    </a>
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MSSohan&theme=chartreuse_dark&hide_border=true&date_format=j%20M%5B%20Y%5D">
 </p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <!---
 MSSohan/MSSohan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
----
+
 ### 💻 Programming Languages:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -142,11 +139,29 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
+## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+<p align='center'>
+    <a href='https://www.linkedin.com/in/md-saifuzzaman-sohan-4a7302213/' target='_blank'>
+        <img src='https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white'/>
+    </a>
+    <a href='mailto:dev.sohan.eee@gmail.com' target='_blank'>
+        <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/>
+    </a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+
+## 📊 GitHub Stats
 ![profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MSSohan&theme=chartreuse_dark)
 ![productive time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MSSohan&theme=chartreuse_dark&utcOffset=6)
 ![repo lang](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MSSohan&theme=chartreuse_dark)
 ![most commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MSSohan&theme=chartreuse_dark)
 ![Most use language](https://github-readme-stats.vercel.app/api/top-langs/?username=MSSohan&layout=donut&theme=highcontrast&hide_border=true)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=MSSohan&theme=radical&no-frame=false&no-bg=true&margin-w=0)
 
 ---
 
@@ -156,3 +171,4 @@ You can click the Preview link to take a look at your changes.
 </details>
 
 ![hit](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{MSSohan}1212%2Fhit-counter)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
