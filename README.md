@@ -57,6 +57,7 @@ You can click the Preview link to take a look at your changes.
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![EasyOCR](https://img.shields.io/badge/EasyOCR-04409d?style=for-the-badge&logo=easyocr&logoColor=white)
+![PyTesseract OCR](https://img.shields.io/badge/PyTesseract%20OCR-5C2D91?style=for-the-badge&logo=easyocr&logoColor=white)
 ![matplotlib](https://img.shields.io/badge/matplolib-04709d?style=for-the-badge&logo=matplotlib&logoColor=white)
 
 ### ⚡ Package Manager
