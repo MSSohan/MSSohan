@@ -189,5 +189,5 @@ You can click the Preview link to take a look at your changes.
 <div><img src="https://profile-counter.glitch.me/MSSohan/count.svg" alt="Flag Counter" border="0"></div>
 </details>
 
-![hit](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{MSSohan}1212%2Fhit-counter)
+![hit](https://hitscounter.dev/api/hit?url=github.com%2FMSSohan&label=Visitors&icon=person-check-fill&color=%23e35d6a&message=&style=plastic&tz=Asia%2FDacca)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
