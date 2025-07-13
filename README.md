@@ -175,7 +175,7 @@ You can click the Preview link to take a look at your changes.
 ![productive time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MSSohan&theme=chartreuse_dark&utcOffset=6)
 ![repo lang](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MSSohan&theme=chartreuse_dark)
 ![most commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MSSohan&theme=chartreuse_dark)
-![Most use language](https://github-readme-stats.vercel.app/api/top-langs/?username=MSSohan&layout=donut&theme=highcontrast&hide_border=true)
+![Most use language](https://github-readme-stats.vercel.app/api/top-langs/?username=MSSohan&langs_count=5&layout=donut&theme=highcontrast&hide_border=true)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
