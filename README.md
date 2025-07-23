@@ -11,9 +11,13 @@
 - Developed **Uprint** – a comprehensive **Cloud-Based Printing Solution** featuring a custom hardware device **Kiosk**, secure document upload, real-time queue management, and automated print execution for institutional and public use  
   🔗 Visit: [Uprint](https://uprintbd.com)
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MSSohan&theme=chartreuse_dark&hide_border=true&date_format=j%20M%5B%20Y%5D">
+</p>
+
 ---
 
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> <b> Let's Connect..!</b>
 <p align='center'>
     <a href='https://www.linkedin.com/in/md-saifuzzaman-sohan-4a7302213/' target='_blank'>
         <img src='https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white'/>
@@ -24,10 +28,6 @@
     <a href='mailto:sohan.cu.eee.17@gmail.com' target='_blank'>
         <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/>
     </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MSSohan&theme=chartreuse_dark&hide_border=true&date_format=j%20M%5B%20Y%5D">
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
