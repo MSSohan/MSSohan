@@ -11,6 +11,21 @@
 - Developed **Uprint** – a comprehensive **Cloud-Based Printing Solution** featuring a custom hardware device **Kiosk**, secure document upload, real-time queue management, and automated print execution for institutional and public use  
   🔗 Visit: [Uprint](https://uprintbd.com)
 
+---
+
+## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+<p align='center'>
+    <a href='https://www.linkedin.com/in/md-saifuzzaman-sohan-4a7302213/' target='_blank'>
+        <img src='https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white'/>
+    </a>
+    <a href='in/md-saifuzzaman-sohan-4a7302213' target='_blank'>
+        <img src='https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white'/>
+    </a>
+    <a href='mailto:sohan.cu.eee.17@gmail.com' target='_blank'>
+        <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/>
+    </a>
+</p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MSSohan&theme=chartreuse_dark&hide_border=true&date_format=j%20M%5B%20Y%5D">
 </p>
@@ -156,18 +171,6 @@ You can click the Preview link to take a look at your changes.
 ![Google Meet](https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
-
----
-
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-<p align='center'>
-    <a href='https://www.linkedin.com/in/md-saifuzzaman-sohan-4a7302213/' target='_blank'>
-        <img src='https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white'/>
-    </a>
-    <a href='mailto:dev.sohan.eee@gmail.com' target='_blank'>
-        <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/>
-    </a>
-</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
