@@ -22,7 +22,7 @@
     <a href='https://www.linkedin.com/in/md-saifuzzaman-sohan-4a7302213/' target='_blank'>
         <img src='https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white'/>
     </a>
-    <a href='in/md-saifuzzaman-sohan-4a7302213' target='_blank'>
+    <a href='https://www.facebook.com/MD.Saifuzzaman.Sohan.1213/' target='_blank'>
         <img src='https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white'/>
     </a>
     <a href='mailto:sohan.cu.eee.17@gmail.com' target='_blank'>
