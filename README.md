@@ -5,11 +5,16 @@
 </div>
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> About me </b>
-- I am an Engineer with a background in `Electrical and Electronic Engineering (EEE)` and a strong focus on Software Development, IoT systems and cloud infrastructure. I currently work at `HTNASolutions Inc, Texas, USA`. Where I lead the development of secure, scalable and performance-oriented applications for healthcare, diagnostics and automation.
 
+<div align="justify">
+  
+- I am an Engineer with a background in `Electrical and Electronic Engineering (EEE)` and a strong focus on Software Development, IoT systems and cloud infrastructure. I currently work at `HTNASolutions Inc, Texas, USA`. Where I lead the development of secure, scalable and performance-oriented applications for healthcare, diagnostics and automation.
+  
 - Combined with a strong foundation in RF systems and hands-on experience in Python, Django, Laravel, MQTT, Raspberry Pi and AWS, I design systems that bridge hardware-level interactions with modern web and API architectures.
+  
 - Developed **Uprint** – a comprehensive **Cloud-Based Printing Solution** featuring a custom hardware device **Kiosk**, secure document upload, real-time queue management, and automated print execution for institutional and public use  
   🔗 Visit: [Uprint](https://uprintbd.com)
+</div>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MSSohan&theme=chartreuse_dark&hide_border=true&date_format=j%20M%5B%20Y%5D">
