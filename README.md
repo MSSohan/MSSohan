@@ -198,10 +198,10 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-<details><summary>See Visitors Information</summary>
-🎯 Counting of visitors to this page in this section started from June 06, 2023
-<div><img src="https://profile-counter.glitch.me/MSSohan/count.svg" alt="Flag Counter" border="0"></div>
-</details>
-
+## 🎯 See Visitors Information
 ![hit](https://hitscounter.dev/api/hit?url=github.com%2FMSSohan&label=Visitors&icon=person-check-fill&color=%23e35d6a&message=&style=plastic&tz=Asia%2FDacca)
+
+Counting of visitors to this page in this section started from January 01, 2026
+<div><img src="https://profile-counter.deno.dev/MSSohan/count.svg" alt="Flag Counter" border="0"></div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
