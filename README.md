@@ -189,6 +189,9 @@ You can click the Preview link to take a look at your changes.
 ![repo lang](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MSSohan&theme=chartreuse_dark)
 ![most commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MSSohan&theme=chartreuse_dark)
 ![Most use language](https://github-readme-stats.vercel.app/api/top-langs/?username=MSSohan&langs_count=5&layout=donut&theme=highcontrast&hide_border=true)
+
+![All Stats](https://yourinsights.vercel.app/api/insight?username=MSSohan&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true%22%20alt=%22GitHub%20Insights)
+
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mssohan&radius=16&theme=high-contrast&area=true&order=5&title_color=7fff00&line=7fff00&point=ffffff&area_color=00ffff&hide_border=true)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
