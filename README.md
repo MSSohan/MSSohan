@@ -185,10 +185,8 @@ You can click the Preview link to take a look at your changes.
 
 ## 📊 GitHub Stats
 ![profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MSSohan&theme=chartreuse_dark)
-![productive time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MSSohan&theme=chartreuse_dark&utcOffset=6)
 ![repo lang](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MSSohan&theme=chartreuse_dark)
 ![most commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MSSohan&theme=chartreuse_dark)
-![Most use language](https://github-readme-stats.vercel.app/api/top-langs/?username=MSSohan&langs_count=5&layout=donut&theme=highcontrast&hide_border=true)
 
 ![All Stats](https://yourinsights.vercel.app/api/insight?username=MSSohan&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true%22%20alt=%22GitHub%20Insights)
 
