@@ -8,12 +8,25 @@
 
 <div align="justify">
   
-- I am an Engineer with a background in `Electrical and Electronic Engineering (EEE)` and a strong focus on Software Development, IoT systems and cloud infrastructure. I currently work at `HTNASolutions Inc, Texas, USA`. Where I lead the development of secure, scalable and performance-oriented applications for healthcare, diagnostics and automation.
-  
-- Combined with a strong foundation in RF systems and hands-on experience in Python, Django, Laravel, MQTT, Raspberry Pi and AWS, I design systems that bridge hardware-level interactions with modern web and API architectures.
-  
+- I build production-ready software, cloud platforms and IoT solutions that solve real-world problems.
+- My work spans backend engineering, cloud infrastructure, embedded systems and automation—turning ideas into secure, scalable and reliable products.
 - Developed **Uprint** – a comprehensive **Cloud-Based Printing Solution** featuring a custom hardware device **Kiosk**, secure document upload, real-time queue management, and automated print execution for institutional and public use  
   🔗 Visit: [Uprint](https://uprintbd.com)
+
+### What I build
+
+*  Cloud-native web applications
+*  IoT & embedded systems
+*  Automation platforms
+*  Healthcare & diagnostic solutions
+*  AI-powered applications
+
+### Featured Projects
+
+*  **[Uprint](https://uprintbd.com)** — Cloud-based printing platform with custom IoT hardware
+*  **[SmartOMR](https://omr.uprintbd.com)** — Intelligent OMR evaluation system
+*  **[Synapsych](https://synapsych.com)** — Digital healthcare platform
+  
 </div>
 
 <p align="center">
