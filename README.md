@@ -10,7 +10,7 @@
   
 - I build production-ready software, cloud platforms and IoT solutions that solve real-world problems.
 - My work spans backend engineering, cloud infrastructure, embedded systems and automation—turning ideas into secure, scalable and reliable products.
-- Developed **Uprint** – a comprehensive **Cloud-Based Printing Solution** featuring a custom hardware device **Kiosk**, secure document upload, real-time queue management, and automated print execution for institutional and public use.
+- Developed **Uprint** – a comprehensive **Cloud-Based Printing Solution** featuring a custom hardware device **Kiosk**, secure document upload, real-time queue management, and automated print execution for institutional and public use.     
   🔗 Visit: [Uprint](https://uprintbd.com)
 
 ### What I build
