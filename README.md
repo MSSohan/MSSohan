@@ -43,7 +43,7 @@
     <a href='https://www.facebook.com/MD.Saifuzzaman.Sohan.1213/' target='_blank'>
         <img src='https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white'/>
     </a>
-    <a href='mailto:sohan.cu.eee.17@gmail.com' target='_blank'>
+    <a href='mailto:mdsaifuzzamansohan@gmail.com' target='_blank'>
         <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/>
     </a>
 </p>
