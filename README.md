@@ -1,20 +1,18 @@
 <h1 align="center"><b>Hi , I'm Md Saifuzzaman Sohan </b> </h1> <!--<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1> -->
 
 <div align='center'>
-<img src='https://readme-typing-svg.herokuapp.com/?font=Protest+Revolution&size=30&color=30F700&center=true&lines=Software+Engineer;RF+Engineer;Electrical+Engineer;Web+Developer;App+Developer;Product+Developer;Enthusiastic+Programmer;3D+Designer;'alt="Typing SVG" />
+<img src='https://readme-typing-svg.herokuapp.com/?font=Protest+Revolution&size=30&color=30F700&center=true&lines=Software+Engineer;Backend+Developer;Cloud+%26+IoT+Engineer;AI+Solutions+Developer' alt="Typing SVG" />
 </div>
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> About me </b>
 
 <div align="justify">
   
-- I build production-ready software, cloud platforms and IoT solutions that solve real-world problems.
-- My work spans backend engineering, cloud infrastructure, embedded systems and automation—turning ideas into secure, scalable and reliable products.
-- Developed **Uprint** – a comprehensive **Cloud-Based Printing Solution** featuring a custom hardware device **Kiosk**, secure document upload, real-time queue management, and automated print execution for institutional and public use.     
-  🔗 Visit: [Uprint](https://uprintbd.com)
+- Building secure, scalable, and production-ready software for web, cloud, AI and IoT.
+- Specialized in **Backend Development, Cloud Infrastructure, AI and IoT Solutions**.
+- Founder & Lead Engineer of **[UPrint](https://uprintbd.com)** – a cloud-based printing platform powered by custom IoT kiosks, enabling secure document upload, queue management and automated printing.
 
-### What I Can Build
-
+### Core Expertise
 - SaaS & Custom Software Development
 - AI & Automation Solutions
 - IoT & Embedded Systems
@@ -22,15 +20,12 @@
 - API Integration & Backend Development
 
 ### Featured Projects
-
-- [UPrint](https://uprintbd.com): A cloud printing platform for secure document printing through custom IoT kiosks.
-  * **Built:** Built the complete platform, IoT kiosk, printer integration, backend, infrastructure and deployment.
 - [Synapsych](https://synapsych.com): Digital assessment platform for cognitive tests and psychological evaluations.
-  * **Built:** Developed the assessment engine, dashboards, backend APIs, reporting and user experience.
+  * **Built:** Assessment engine, dashboards, backend APIs, reporting and user experience.
 - [SmartOMR](https://omr.uprintbd.com): AI-powered OMR platform for instant answer sheet evaluation.
-  * **Built:** Built the AI evaluation engine using OpenCV and OCR, with batch processing, reporting and Excel export.
+  * **Built:** OpenCV & OCR engine, batch processing, reporting, and Excel export.
 - [Instant Pediatric Care](https://instantpediatric.com): Modern healthcare platform for appointments and patient management.
-  * **Built:** Developed the website, optimized performance and SEO and managed deployment.
+  * **Built:** Website, performance optimization, SEO, and deployment.
 
 </div>
 
