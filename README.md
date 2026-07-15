@@ -13,13 +13,13 @@
 - Developed **Uprint** – a comprehensive **Cloud-Based Printing Solution** featuring a custom hardware device **Kiosk**, secure document upload, real-time queue management, and automated print execution for institutional and public use.     
   🔗 Visit: [Uprint](https://uprintbd.com)
 
-### What I build
+### What I Can Build
 
-*  Cloud-native web applications
-*  IoT & embedded systems
-*  Automation platforms
-*  Healthcare & diagnostic solutions
-*  AI-powered applications
+- SaaS & Custom Software Development
+- AI & Automation Solutions
+- IoT & Embedded Systems
+- Cloud-Native Applications
+- API Integration & Backend Development
 
 ### Featured Projects
 
