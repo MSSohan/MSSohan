@@ -24,13 +24,13 @@
 ### Featured Projects
 
 - [UPrint](https://uprintbd.com): A cloud printing platform for secure document printing through custom IoT kiosks.
-  * **My Role:** Built the complete platform, IoT kiosk, printer integration, backend, infrastructure and deployment.
-- [Synapsych](https://synapsych.com): A digital assessment platform with cognitive games, psychological questionnaires, automated reporting and role-based management.
-  * **My Role:** Developed the assessment engine, dashboards, backend APIs, reporting, and user experience.
-- [SmartOMR](https://omr.uprintbd.com): An AI-powered OMR platform that evaluates scanned or photographed answer sheets in seconds.
-  * **My Role:** Built the AI evaluation engine using OpenCV and OCR, with batch processing, reporting, and Excel export.
-- [Instant Pediatric Care](https://instantpediatric.com): A healthcare platform that streamlines appointments and enhances the patient experience.
-  * **My Role:** Developed the website, optimized performance and SEO, and managed deployment.
+  * **Built:** Built the complete platform, IoT kiosk, printer integration, backend, infrastructure and deployment.
+- [Synapsych](https://synapsych.com): Digital assessment platform for cognitive tests and psychological evaluations.
+  * **Built:** Developed the assessment engine, dashboards, backend APIs, reporting and user experience.
+- [SmartOMR](https://omr.uprintbd.com): AI-powered OMR platform for instant answer sheet evaluation.
+  * **Built:** Built the AI evaluation engine using OpenCV and OCR, with batch processing, reporting and Excel export.
+- [Instant Pediatric Care](https://instantpediatric.com): Modern healthcare platform for appointments and patient management.
+  * **Built:** Developed the website, optimized performance and SEO and managed deployment.
 
 </div>
 
