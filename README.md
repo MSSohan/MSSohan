@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm Md Saifuzzaman Sohan </b> </h1> <!--<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1> -->
 
 <div align='center'>
-<img src='https://readme-typing-svg.herokuapp.com/?font=Protest+Revolution&size=30&color=30F700&center=true&lines=Software+Engineer;Backend+Developer;Cloud+%26+IoT+Engineer;AI+Solutions+Developer' alt="Typing SVG" />
+<img src='https://readme-typing-svg.herokuapp.com/?font=Protest+Revolution&size=30&color=30F700&center=true&lines=Software+Engineer;Backend+Engineer;Cloud+%26+IoT+Engineer;AI+Solutions+Developer' alt="Typing SVG" />
 </div>
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> About me </b>
@@ -9,7 +9,7 @@
 <div align="justify">
   
 - Building secure, scalable, and production-ready software systems across Backend, Cloud, AI, and IoT.
-- Specialized in **Backend Engineering, Cloud Infrastructure, AI and IoT Solutions**.
+- Specializing in **Backend Engineering, Cloud Infrastructure, AI and IoT Solutions**.
 - Founder & Lead Engineer of **[Uprint](https://uprintbd.com)** — a cloud-based printing platform powered by custom IoT kiosks for secure document management and automated printing.
   
 ### Core Expertise
@@ -21,7 +21,7 @@
 
 ### Featured Projects
 - **[Synapsych](https://synapsych.com)** — Healthcare assessment platform for cognitive and psychological evaluations.
-  - **Built:** Assessment engine, dashboards, backend APIs, reporting and user experience.
+  - **Built:** Assessment engine, dashboards, backend APIs, reporting and UX.
 - **[SmartOMR](https://omr.uprintbd.com)** — AI-powered OMR platform for instant answer sheet evaluation.
   - **Built:** OpenCV & OCR engine, batch processing, reporting and Excel export.
 - **[Instant Pediatric Care](https://instantpediatric.com)** — Healthcare platform for appointments and patient management.
@@ -81,6 +81,7 @@ You can click the Preview link to take a look at your changes.
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=aws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
@@ -96,7 +97,7 @@ You can click the Preview link to take a look at your changes.
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-04509d?style=for-the-badge&logo=SciPy&logoColor=white)
-![matplotlib](https://img.shields.io/badge/matplolib-04709d?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/matplolib-04709d?style=for-the-badge&logo=matplotlib&logoColor=white)
 
 ### 📡 IoT & Embedded Systems
 ![ESP32 / ESP8266](https://img.shields.io/badge/ESP32/ESP8266-000000?style=for-the-badge&logo=espressif&logoColor=white)
@@ -109,9 +110,9 @@ You can click the Preview link to take a look at your changes.
 ### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-28338e.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
 ### 📱 Cross-Platform Development
