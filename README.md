@@ -8,24 +8,24 @@
 
 <div align="justify">
   
-- Building secure, scalable, and production-ready software for web, cloud, AI and IoT.
-- Specialized in **Backend Development, Cloud Infrastructure, AI and IoT Solutions**.
-- Founder & Lead Engineer of **[UPrint](https://uprintbd.com)** – a cloud-based printing platform powered by custom IoT kiosks, enabling secure document upload, queue management and automated printing.
-
+- Building secure, scalable, and production-ready software across web, cloud, AI and IoT.
+- Specialized in **Backend Engineering, Cloud Infrastructure, AI, and IoT Solutions**.
+- Founder & Lead Engineer of **[Uprint](https://uprintbd.com)** — a cloud-based printing platform powered by custom IoT kiosks for secure document management and automated printing.
+  
 ### Core Expertise
+- Backend Engineering
 - SaaS & Custom Software Development
-- AI & Automation Solutions
+- Cloud Infrastructure
+- AI & Automation
 - IoT & Embedded Systems
-- Cloud-Native Applications
-- API Integration & Backend Development
 
 ### Featured Projects
-- [Synapsych](https://synapsych.com): Digital assessment platform for cognitive tests and psychological evaluations.
-  * **Built:** Assessment engine, dashboards, backend APIs, reporting and user experience.
-- [SmartOMR](https://omr.uprintbd.com): AI-powered OMR platform for instant answer sheet evaluation.
-  * **Built:** OpenCV & OCR engine, batch processing, reporting, and Excel export.
-- [Instant Pediatric Care](https://instantpediatric.com): Modern healthcare platform for appointments and patient management.
-  * **Built:** Website, performance optimization, SEO, and deployment.
+- **[Synapsych](https://synapsych.com)** — Digital assessment platform for cognitive tests and psychological evaluations.
+  - **Built:** Assessment engine, dashboards, backend APIs, reporting and user experience.
+- **[SmartOMR](https://omr.uprintbd.com)** — AI-powered OMR platform for instant answer sheet evaluation.
+  - **Built:** OpenCV & OCR engine, batch processing, reporting and Excel export.
+- **[Instant Pediatric Care](https://instantpediatric.com)** — Healthcare platform for appointments and patient management.
+  - **Built:** Website, performance optimization, SEO and deployment.
 
 </div>
 
