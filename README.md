@@ -79,9 +79,9 @@ You can click the Preview link to take a look at your changes.
 
 ### ☁️ Cloud & DevOps
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
@@ -125,7 +125,7 @@ You can click the Preview link to take a look at your changes.
 
 ## 📊 GitHub Stats
 ![profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MSSohan&theme=chartreuse_dark)
-![All Stats](https://yourinsights.vercel.app/api/insight?username=MSSohan&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true%22%20alt=%22GitHub%20Insights)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mssohan&radius=16&theme=high-contrast&area=true&order=5&title_color=7fff00&line=7fff00&point=ffffff&area_color=00ffff&hide_border=true)
+![All Stats](https://yourinsights.vercel.app/api/insight?username=MSSohan&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true%22%20alt=%22GitHub%20Insights)
 
 ---
